@@ -1,7 +1,7 @@
 # Which Hero Are You
 Quiz that determines what hero the user is.
 
-This program asks a series of questions that will dictate what super hero the user will match the most with. 
+This program asks a series of questions and will receive answers that dictate what super hero the user matches the most with. 
 
 
 
@@ -24,3 +24,14 @@ This program asks a series of questions that will dictate what super hero the us
 
 
 ![Screen Shot 2022-12-14 at 11 53 56 AM](https://user-images.githubusercontent.com/90480945/207668949-255dbc43-6354-4442-8193-3d32d07977d9.png)
+
+
+
+
+
+<ul>
+  <h4>Features currently being worked on</h4>
+  <li>Adding more heroes</li>
+  <li>Adding more questions to further personalize options<li>
+  <li>Creating more answer combinations to get the same hero<li>
+</ul>
