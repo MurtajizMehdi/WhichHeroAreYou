@@ -30,7 +30,7 @@ This program asks a series of questions and will receive answers that dictate wh
 
 
 <ul>
-  <h4>Features currently being worked on</h4>
+  <h2>Features currently being worked on</h2>
   <li>Adding more heroes</li>
   <li>Adding more questions to further personalize options<li>
   <li>Creating more answer combinations to get the same hero<li>
