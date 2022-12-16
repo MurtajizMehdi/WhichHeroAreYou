@@ -905,6 +905,11 @@ def gameLogic():
         print("\n\n\nYou are Batman!")      # I later plan on including this within the turtle graphic.
         batManLogo()
 
+    # Captain America logic
+    elif answerList == ["A", "B", "A", "A", "C"] or answerList == ["A", "B", "B", "A", "C"]:
+        print("\n\n\nYou are Captain America!")
+        captainAmericaLogo()
+
 
 
 
