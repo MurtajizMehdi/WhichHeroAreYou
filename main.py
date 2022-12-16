@@ -901,7 +901,7 @@ def gameLogic():
         spiderManLogo()     # some sort of error comes up after running successfully...
 
     # Batman logic
-    elif answerList == ["B", "C", "C", "B"]: # some will only have one set of answers.
+    elif answerList == ["B", "C", "C", "B", "C"]: # some will only have one set of answers.
         print("\n\n\nYou are Batman!")      # I later plan on including this within the turtle graphic.
         batManLogo()
 
@@ -924,10 +924,6 @@ main() # <- runs everything.
 
 
 
-
-
-
-
 # CODE UPDATES / NOTABLE TASKS & DOCUMENTATION
 #------------------------------------------------
 
@@ -937,3 +933,6 @@ main() # <- runs everything.
             # print("\n\n\nYou are Batman!")
             # batManLogo() <== This is just an example. Thinking about placing the logo code as well in other functions
             # or even other files such as a file specifically for logic or another for logos.
+
+    # Still need to work on logic for Spider-Man, BatMan, Captain America, and Iron Man.
+
