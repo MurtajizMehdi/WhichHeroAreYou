@@ -910,6 +910,10 @@ def gameLogic():
         print("\n\n\nYou are Captain America!")
         captainAmericaLogo()
 
+    # IronMan logo
+    elif answerList == ["A", "C", "B", "B", "C"] or answerList == ["B", "C", "B", "B", "C"]:
+        print("\n\n\nYou are Iron Man!")
+        ironManLogo()
 
 
 
@@ -941,3 +945,4 @@ main() # <- runs everything.
 
     # Still need to work on logic for Spider-Man, BatMan, Captain America, and Iron Man.
 
+    # Look at how Iron Man graphic says "I am Iron Man" and apply that to every graphic that says "You are *enter name*.
