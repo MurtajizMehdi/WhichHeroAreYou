@@ -3,16 +3,10 @@ Quiz that determines what hero the user is.
 
 This program asks a series of questions and will receive answers that dictate what super hero the user matches the most with. 
 
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 ![Screen Shot 2022-12-14 at 11 43 45 AM](https://user-images.githubusercontent.com/90480945/207668217-7fd02aaa-12d5-455a-a48d-1dbeb464c7c9.png)
 
