@@ -2,11 +2,11 @@
 Quiz that determines what hero the user is.
 
 This program asks a series of questions and will receive answers that dictate what super hero the user matches the most with. 
+There are still several aspects of the application that are being worked on. 
 
 <br>
 <br>
-<br>
-<br>
+
 
 <h2> Here are some of the graphics </h2>
 
