@@ -17,6 +17,7 @@ import turtle, math
 def superManLogo():
     t = turtle.Turtle()  # set the variable ‘t’ to the function turtle.Turtle() to shorten the code throughout
     turtle.Screen().bgcolor('navy')  # set the color of the screen to navy to match Superman’s costume
+    turtle.title("YOU ARE SUPERMAN")
 
     def curve(value):  # create a function to generate curves in turtle
         for i in range(value):  # for loop to repeat the inputted value number of times
@@ -133,6 +134,7 @@ def superManLogo():
 # spiderMan logo - Refactor in order to make code run faster
 def spiderManLogo():
     import turtle
+    turtle.title("YOU ARE SPIDER-MAN")
     turtle.bgcolor('black')
     p = turtle.Turtle()
     wn = turtle.Screen()
@@ -612,6 +614,7 @@ def batManLogo():
     window = turtle.Screen()
     window.bgcolor("#000000")
     t.color("yellow")
+    turtle.title("YOU ARE BATMAN")
 
 
     t.left(90)
@@ -703,7 +706,7 @@ def ironManLogo():
     turtle.hideturtle()
     turtle.bgcolor('#ba161e')  # Dark Red
     turtle.setup(500, 600)
-    turtle.title("I AM IRONMAN")
+    turtle.title("YOU ARE IRONMAN")
     ankur1Goto = (0, 120)
     ankur2Goto = (0, -30)
     ankur3Goto = (0, -220)
@@ -738,6 +741,7 @@ def captainAmericaLogo():
     import math
 
     t = turtle.Turtle()
+    turtle.title("YOU ARE CAPTAIN AMERICA")
 
     def ankur(x, y):
         t.penup()
