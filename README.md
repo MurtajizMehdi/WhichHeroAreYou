@@ -46,7 +46,7 @@ There are still several aspects of the application that are being worked on.
 
 <ol>
   <h2>How to use program</h2>
-  <li>Make sure Python is installed (go to <a href="https://www.python.org/downloads/">Python.org if not)</a></li>
+  <li>Make sure Python is installed (go to <a href="https://www.python.org/downloads/">Python.org</a> if not)</li>
   <li>Fork this repository</li>
   <li>Run program.</li>
 </ol>
