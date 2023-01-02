@@ -40,3 +40,13 @@ There are still several aspects of the application that are being worked on.
   <li>Adding more questions to further personalize options</li>
   <li>Creating more answer combinations to get the same hero</li>
 </ul>
+
+<br>
+<br>
+
+<ol>
+  <h2>How to use program</h2>
+  <li>Make sure Python is installed (go to <a href="https://www.python.org/downloads/">Python.org if not)</a></li>
+  <li>Fork this repository</li>
+  <li>Run program.</li>
+</ol>
